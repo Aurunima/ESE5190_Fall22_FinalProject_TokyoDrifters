@@ -5,7 +5,7 @@ Ronil Synghal: https://github.com/ronils428
 
 Aurunima Samaddar: https://github.com/Aurunima
 
-# Design
+## Design
 The Tokyo Drifters vehicle packs various desirable features in a tiny and inteligent form:
 - Object detection and object avoidance using PIR sensors
 - Object detection and object avoidance using arducam
@@ -29,7 +29,7 @@ https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/
 Image unavailable
 
 
-# Materials
+## Materials
 
 Pico4ml
 
@@ -47,19 +47,19 @@ Level shifter
 2. Realize temperature measuring
 3. Realize time correction
 
-# Troubleshooting
-## Motor and encoder
+## Troubleshooting
+### Motor and encoder
 Servo motor was initially used but the maximum speed was not good enough.
 
-## UART communication
+### UART communication
 UART data from the Pi Pico was not being recognised by the Polol 3Pi bot. The voltage levels of those of the Pic4ML and those of the 3Pi bot are different, which needs to be considered while implementing the circuit.
 
-## Line following
+### Line following
 Line following was very jerky initially, which was resolved by introducing PID.
 Furhter, to increase the accuracy of line following, ML is also used.
 
-# Reflection
+## Reflection
 The vehicle
 
-# Code
+## Code
 https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/code/main.c
