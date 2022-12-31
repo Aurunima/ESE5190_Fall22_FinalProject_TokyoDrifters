@@ -1,4 +1,4 @@
-# ESE5190_Fall22_FinalProject_TokyoDrifters
+# ESE5190 Fall22 Final Project: Tokyo Drifters
 
 ## Team Members
 Ronil Synghal: https://github.com/ronils428
