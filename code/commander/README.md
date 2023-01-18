@@ -49,7 +49,7 @@ It turned out that "capture camera frame, then show on display" loop runs sqrt(2
 ## test
 [https://www.youtube.com/watch?v=CXhm8GdwkNc](https://www.youtube.com/watch?v=CXhm8GdwkNc)  
 
-![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_1.jpg)
-![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_2.jpg)
-![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_3.jpg)
+![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_1.jpg) \
+![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_2.jpg) \
+![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_3.jpg) \
 
