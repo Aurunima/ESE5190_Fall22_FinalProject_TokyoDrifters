@@ -1,6 +1,5 @@
 # Pico4MLcbot hm01b0 camera and st7735 display demo 
 ## Hardware Connection
-![IMAGE ALT TEXT](photos/Pico4MLcbot.15pc.jpg)
 ```
 int PIN_LED = 25;
 int PIN_CAM_SIOC = 5; // I2C0 SCL
@@ -49,7 +48,8 @@ It turned out that "capture camera frame, then show on display" loop runs sqrt(2
 
 ## test
 [https://www.youtube.com/watch?v=CXhm8GdwkNc](https://www.youtube.com/watch?v=CXhm8GdwkNc)  
-![IMAGE ALT TEXT](photos/Pico4ML-BLE.anim.gif)  
-![IMAGE ALT TEXT](photos/20211207_202449.part.50pc.jpg)  
-![IMAGE ALT TEXT](photos/20211207_220948.part.25pc.jpg)  
-![IMAGE ALT TEXT](photos/20211124_204656.part.20pc.jpg)
+
+![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_1.jpg)
+![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_2.jpg)
+![image](https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ardcm_3.jpg)
+
