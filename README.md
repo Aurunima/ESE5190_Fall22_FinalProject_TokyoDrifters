@@ -23,7 +23,7 @@ Further, with the usage of ML, improvised performance in object detection and ob
 
 ## Demo
 
-https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/demo/Ln_demo.gif
+https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/media/Ln_demo.gif
 
 ## Diagram
 Image unavailable
