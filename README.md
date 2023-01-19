@@ -67,4 +67,4 @@ Furhter, to increase the accuracy of line following, ML could be used.
 UART communication between the Pico4ML and 3Pi bot was an issue. The commands from the Pico4ML would be of 3.3V signals, which we converted to 5V signals using level shifter, to send to the 3Pi bot receiver (PD0). Similarly, the TX (PD1) line from the 3Pi bot of 5V was converted to 3.3.V using level shifter to connect to the RX line of the Pico4ML.
 
 ## Code
-https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/code/main.c
+https://github.com/Aurunima/ESE5190_Fall22_FinalProject_TokyoDrifters/blob/main/code
